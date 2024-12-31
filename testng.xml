@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="apitest.APITest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.BasicAuthTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.GetAndExtractDataTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.GetWithPathParamsTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.GetWithQueryParamsTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.NegativeTestCase"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.PostRequestTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.ResponseTimeTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.ValidateResponseHeadersTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.AppTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.SimpleGetTest"/>  <!-- Replace with your actual test class name -->
+            <class name="apitest.SampleTest"/>  <!-- Replace with your actual test class name -->
+        </classes>
+    </test>
+</suite>
